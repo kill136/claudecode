@@ -151,7 +151,11 @@ node dist/cli.js --version
 ## Disclaimer
 
 This repository is for **educational and research purposes only**. All rights belong to Anthropic PBC. The original source is subject to [Anthropic's legal agreements](https://code.claude.com/docs/en/legal-and-compliance).
+## Community
 
+- **Website:** [chatbi.site](https://www.chatbi.site)
+- **Discord:** [Join us](https://discord.gg/bNyJKk6PVZ)
+- **X (Twitter):** [@wangbingjie1989](https://x.com/wangbingjie1989)
 ## Source Version
 
 - **Package**: `@anthropic-ai/claude-code`
